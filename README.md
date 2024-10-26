@@ -98,7 +98,7 @@ npm run dev
 - [Varad Joshi](https://github.com/Varad-13)
 - [Meet Jamsutkar](https://github.com/MeJaM35)
 - [Rohan Waghode](https://github.com/RSW1511)
-- [Vaishnavi Saarang](https://github.com/RSW1511)
+- [Vaishnavi Saarang](https://github.com/vvaiishnawii)
   
 For feedback or collaboration, reach out to us at [varad,gcs@gmail.com](mailto:varad.gcs@gmail.com).
 
