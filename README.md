@@ -44,7 +44,7 @@ To set up and run Aurum AI, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/aurum-ai.git
+   git clone github.com/Aurum-MumbaiHacks2024/aurum
    cd aurum-ai
    ```
 2. Set up a virtual environment:
