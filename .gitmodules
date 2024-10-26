@@ -1,0 +1,15 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Aurum-MumbaiHacks2024/api
+[submodule "chat"]
+	path = chat
+	url = https://github.com/Aurum-MumbaiHacks2024/chat
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/Aurum-MumbaiHacks2024/Scripts
+[submodule "data"]
+	path = data
+	url = https://github.com/Aurum-MumbaiHacks2024/data
+[submodule "designs"]
+	path = designs
+	url = https://github.com/Aurum-MumbaiHacks2024/designs
